@@ -1,0 +1,7 @@
+{
+  "name": "pomonino",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
